@@ -1,16 +1,15 @@
-## Hi there 👋
+![thumbnail git.JPG](assets/thumbnail%20git.png)
+### Skills
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-<!--
-**januarsyah901/januarsyah901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
+![https://www.linkedin.com/in/januarsyah/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.instagram.com/hallojanuu/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://x.com/Januarsyah901](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)
 
-Here are some ideas to get you started:
+### Motto
+> #### "I prompt hard... but I don't prompt heartless."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
