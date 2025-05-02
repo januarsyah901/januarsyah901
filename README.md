@@ -1,4 +1,4 @@
-![thumbnail git.JPG](assets/thumbnail%20git.png)
+![thumbnail git.JPG](thumbnail%20git.png)
 ### Skills
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
