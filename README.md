@@ -4,7 +4,6 @@
 
 ### Socials
 ![https://www.linkedin.com/in/januarsyah/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://www.instagram.com/hallojanuu/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://x.com/Januarsyah901](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)
 
 ### Motto
