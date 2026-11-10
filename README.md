@@ -6,17 +6,6 @@ Software engineering student at **Sekolah Vokasi UGM** (TRPL). I build full-stac
 
 🌐 [hallojanu.me](https://hallojanu.me)
 
-### 🚀 Featured projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**vibeprobe**](https://github.com/januarsyah901/vibeprobe) | Local, read-only security scanner for apps built with AI. One command, plain-language report, ready-to-paste fix prompts. | TypeScript · CLI |
-| [**cepaty**](https://github.com/januarsyah901/cepaty) | Lightweight real-time network traffic monitor in the macOS menu bar. | Swift |
-| [**boros-token**](https://github.com/januarsyah901/boros-token) | Local dashboard that tracks token usage across AI CLI agents (Codex, OpenCode, Agy). | HTML · JS |
-| [**CakMaD**](https://github.com/januarsyah901/CakMaD) | Markdown → PDF editor with live preview, LaTeX math, and Mermaid diagrams. | React · Vite · Tailwind |
-| [**CrowdPark AI**](https://github.com/januarsyah901/crowdpark-api) | Predictive parking WebGIS platform: [API](https://github.com/januarsyah901/crowdpark-api), [ML service](https://github.com/januarsyah901/crowdpark-ml), [docs](https://github.com/januarsyah901/crowdpark-docs). | Express · FastAPI |
-| [**personal-mcp-context**](https://github.com/januarsyah901/personal-mcp-context) | Serves personal context to AI agents over the Model Context Protocol. | TypeScript · MCP |
-
 ### 🛠️ Tech I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
